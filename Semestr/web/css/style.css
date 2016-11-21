@@ -1,0 +1,172 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+
+}
+
+.SubmitBotton {
+    background-color: #46cfed;
+    height: 43px;
+    width: 200px;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 15px;
+    color: rgba(35, 43, 45, 0.87);
+    margin: 37px 0 0 30px;
+    border: 2px solid transparent;
+
+}
+
+
+.RegDiv {
+    background-color: #fff;
+    width: 380px;
+    height: 900px;
+    border-radius: 4px;
+    margin: auto;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.myPageDiv {
+    background-color: #fff;
+    width: 900px;
+    height: auto;
+    border-radius: 4px;
+    margin: auto;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.LogInDiv {
+    background-color: #fff;
+    width: 380px;
+    height: 470px;
+    border-radius: 4px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+table,th,td
+{
+    border: 1px solid black;
+    margin: auto;
+
+    font-size: 15px;
+    font-family: "Arial Unicode MS";
+
+}
+
+.TablesDiv {
+    background-color: #fff;
+    width: 900px;
+    height: auto;
+    border-radius: 4px;
+    margin: auto;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.IndexDiv {
+    background-color: #fff;
+    width: 900px;
+    height: 300px;
+    border-radius: 4px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.link{
+    margin-left: 30px;
+    font-size: 22px;
+    font-family: "Arial Unicode MS";
+    padding: 10px 0 0 250px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-color: rgba(55, 67, 69, 0.15);
+}
+
+h1 {
+
+    color: #464646;
+    padding: 15px 0 0 30px;
+    margin-bottom: 0;
+    font-family: "Arial";
+    font-size: 23px;
+
+}
+
+p#whatToDo {
+    padding-left: 30px;
+    color: #919191;
+    padding-top: 0;
+    margin-top: 1px;
+    font-family: "Arial Unicode MS";
+    font-size: 13px;
+
+}
+
+input {
+    border-color: rgba(55, 67, 69, 0.15);
+    color: #989898;
+    height: 43px;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-size: 18px;
+    font-family: "Arial Unicode MS";
+    width: 300px;
+    margin: 5px 0 25px 30px;
+}
+
+input:focus {
+    border-color: rgba(70, 207, 237, 0.61);
+    box-shadow:0 0 15px rgb(86, 191, 219);
+}
+
+label {
+    margin-left: 30px;
+    color: #888888;
+    font-size: 13px;
+    font-family: "Arial Unicode MS";
+}
+
+.GoTo {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    font-family: "Arial Unicode MS";
+}
+
+.UpGoTo {
+    margin-left: 30px;
+    font-size: 13px;
+    font-family: "Arial Unicode MS";
+    padding: 10px 0 0 700px;
+}
+
+.labelLK {
+    margin-left: 30px;
+    color: #434343;
+    font-size: 15px;
+    font-family: "Arial Unicode MS";
+}
